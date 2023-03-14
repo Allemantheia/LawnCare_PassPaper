@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lawncare console", "Lawncare console\Lawncare console.csproj", "{9C288B17-F1BC-492E-B003-40129DDF1441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C288B17-F1BC-492E-B003-40129DDF1441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C288B17-F1BC-492E-B003-40129DDF1441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C288B17-F1BC-492E-B003-40129DDF1441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C288B17-F1BC-492E-B003-40129DDF1441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939CC42F-A888-493B-98E5-6110E848B3EF}
+	EndGlobalSection
+EndGlobal
